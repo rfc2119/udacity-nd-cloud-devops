@@ -10,7 +10,7 @@ Deploys an HA Application Tier with CloudFormation. The project proposes an Inst
 
 Building a complete CI/CD Pipeline with CircleCI, Ansible, and CloudFormation.
 
-![udapeople-pipeline.png](Project 3/udapeople-pipeline.png)
+![udapeople-pipeline.png](udapeople-pipeline.png)
 
 ## Project 4
 
