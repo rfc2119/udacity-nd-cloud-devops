@@ -1,12 +1,12 @@
 [submodule "Project 2"]
 	path = Project 2
-	url = ./Project 2/
+	url = git@github.com:rfc2119/udapeople-ha
 [submodule "Project 3"]
 	path = Project 3
-	url = ./Project 3/
+	url = git@github.com:rfc2119/udapeople-cicd
 [submodule "Project 4"]
 	path = Project 4
-	url = ./Project 4/
+	url = git@github.com:rfc2119/udacity-microservices-k8s
 [submodule "Project capstone"]
 	path = Project capstone
-	url = ./Project capstone/
+	url = git@github.com:rfc2119/flexo-cicd
