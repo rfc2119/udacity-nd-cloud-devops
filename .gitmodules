@@ -1,0 +1,12 @@
+[submodule "Project 2"]
+	path = Project 2
+	url = ./Project 2/
+[submodule "Project 3"]
+	path = Project 3
+	url = ./Project 3/
+[submodule "Project 4"]
+	path = Project 4
+	url = ./Project 4/
+[submodule "Project capstone"]
+	path = Project capstone
+	url = ./Project capstone/
